@@ -49,6 +49,13 @@ main {
     padding: 30px;
 }
 
+#inicio{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .filme {
     display: flex;
     align-items: center;
